@@ -1,0 +1,15 @@
+body {
+    color: black;
+}
+
+.choice-container {
+    display: flex;
+    margin-bottom: 16px;
+    width: 100%;
+    border-radius: 4px;
+    background: silver;
+    font-size: 36px;
+}
+
+
+
